@@ -3,6 +3,7 @@
  * Plugin Name: Elementor Slider
  * Author: Saiful Islam
  * Version: 1.0.0
+ * Description: This is a Test plugin just. Just for testing Plugin.
  */
 
 
